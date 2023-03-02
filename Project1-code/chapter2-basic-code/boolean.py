@@ -1,0 +1,6 @@
+boo1 = (1==2)
+boo2 = ('a'=='a')
+print(boo1)
+print(boo1+0)
+print(boo2)
+print(boo2+0)
